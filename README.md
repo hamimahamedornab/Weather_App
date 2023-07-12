@@ -15,7 +15,8 @@ You may use a custom font for the temperature and weather description.
 You can use the OpenWeatherMap API or any free weather API to fetch weather data.
 
 
-## ScreenShots
+## ScreenShots![received_6923631417656376](https://github.com/hamimahamedornab/Weather_App/assets/75578573/5b0f86d7-8f8a-43a2-a415-e3d8863a7c20)
+![received_1306956626586022](https://github.com/hamimahamedornab/Weather_App/assets/75578573/bbd2fe35-c135-46c5-9aca-38753f8efd5d)
 
 
-![Uploading 1.PNG…]()
+
